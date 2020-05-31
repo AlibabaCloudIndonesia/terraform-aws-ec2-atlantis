@@ -1,5 +1,5 @@
 module "atlantis" {
     source = "../../"
 
-    public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDUwm1uIDsEnXWUFiruI8ttYOGMPGTZ/5S5EVqQ1wlCu7/ZJFGc56dKAWCTZOSaI2ZDNG+UwaNteEsW0COYekYbpM7WbeUBw+5upI2x2xR37g2fbozbr/OmY+IDH7q3tG+46/3NxIjZ3V8tMDO8Y9Q9N/muOyDP3aIN51w089AHFI37NRgnzgqD2/2fvfzDe9ggXPaZ3kBRwKkIWnPfwbzF9HeyGMFRc6Q1xK4IAwMRQkpzK8jJmuzU9xdXsaJwqa/9MEB/FK9IfyJdn/MSlDI+8gUequL/gWdn/KE+uAoyc0wFJ9JP7f1gjaFOhRrrADEQutDs6xPA+Rqq8xkMSRYl"
+    public_key = "ssh-rsa blablabla"
 }
