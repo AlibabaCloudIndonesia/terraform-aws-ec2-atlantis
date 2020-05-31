@@ -60,3 +60,11 @@ Above command writes private and public key file to **~/.ssh/ec2_atlantis_rsa** 
 | atlantis\_role\_name | Role name for the Atlantis EC2 |
 | atlantis\_server\_user | Username to ssh to the EC2 |
 | atlantis\_xip\_domain | XIP based domain for the EC2 |
+
+## Authors
+
+This module is managed by [Roy Ginting](https://github.com/ringanta/).
+
+## License
+
+This module is licensed under Apache 2 license. See the `LICENSE` file for full details.
