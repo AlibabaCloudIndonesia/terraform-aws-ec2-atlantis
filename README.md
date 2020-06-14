@@ -55,10 +55,12 @@ Above command writes private and public key file to **~/.ssh/ec2_atlantis_rsa** 
 
 | Name | Description |
 |------|-------------|
+| atlantis\_ec2\_id | ID of the Atlantis EC2 |
 | atlantis\_public\_ip | Elastic IP of the EC2 |
 | atlantis\_role\_arn | ARN of the Atlantis EC2 role |
 | atlantis\_role\_name | Role name for the Atlantis EC2 |
-| atlantis\_server\_user | Username to ssh to the EC2 |
+| atlantis\_security\_group | List of ID of security group for the Atlantis EC2 |
+| atlantis\_ssh\_user | Username to ssh to the EC2 |
 | atlantis\_xip\_domain | XIP based domain for the EC2 |
 
 ## Authors
